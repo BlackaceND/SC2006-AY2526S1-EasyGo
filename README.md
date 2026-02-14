@@ -17,14 +17,7 @@ Built with **Next.js + TypeScript**, with **scalability, modularity, and strong 
 
 ---
 
-<details>
-<summary>🌐 Live Demo</summary>
-<br>
 
-**URL:** [https://easygo.jtsy.dev](https://easygo.jtsy.dev)  
-> The app is currently hosted online
-
-</details>
 
 
 <details>
@@ -61,6 +54,8 @@ Create a `.env.local` file in the root directory and populate the fields with yo
 NEXT_PUBLIC_ONEMAP_API_KEY=
 NEXT_PUBLIC_LTA_DATAMALL_KEY=
 NEXT_PUBLIC_NEA_WEATHER_URL=
+NEXT_PUBLIC_SUPABASE_URL=
+NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=
 ```
 API keys are provided in .env local for convenience. In real production this should not be the case. These tokens will be revoked in the future.
 
