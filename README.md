@@ -3,13 +3,6 @@
 Welcome to the official repository for NTU SC2006 / SC2002 Software Engineering group project **_EasyGo_**.
 
 
-<p align='center'>
-  <img src="https://github.com/user-attachments/assets/49d90cd5-2e0d-4c6d-a3f2-e4c7a12c1061" width=700 />
-</p>
-
-<p align="center">
-    <a href="https://easygo.jtsy.dev">Self Hosted Live Demo</a>
-</p>
 
 **EasyGo** is a **smart transport and convenience planner** that helps users find the **most optimal route based on overall comfort over just speed**.  
 By integrating **real-time public transport, bus wait timings, carpark... data**, EasyGo computes a personalized **Convenience Score** that balances time, cost, walking distance, and live conditions.  
